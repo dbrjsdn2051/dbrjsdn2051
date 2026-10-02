@@ -17,6 +17,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Loop animation
+        run: |
+          perl -pi -e 's{values="([^"]*)" dur="3s" repeatCount="1"}{my @v=split /;/,$1; push @v, ($v[-1]) x $#v; qq{values="}.join(";",@v).qq{" dur="6s" repeatCount="indefinite"}}ge' profile-3d-contrib/profile-green-animate.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions

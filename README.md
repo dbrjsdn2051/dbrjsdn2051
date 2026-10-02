@@ -22,6 +22,21 @@ Java · Kotlin · Spring 기반 백엔드 개발을 공부하고 있습니다.
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 
+## 💼 Work Experience
+> 회사 업무로 수행한 프로젝트입니다. (소스코드 비공개)
+
+<img src="./assets/hd360.svg" width="100%"/>
+
+- Electron 에디터 → Spring Boot REST API → React 웹 뷰어 전체 아키텍처 설계·구현
+- React Three Fiber 기반 360° 파노라마 뷰어, G/A 도면 연동 내비게이션
+- Electron 데스크톱 에디터(mac/win) 및 electron-updater + S3 자동 배포
+
+<img src="./assets/3dview.svg" width="100%"/>
+
+- Three.js 기반 발전소 3D 모델(GLB) 뷰어 + 360° VR 장면 뷰어
+- 발전소 → 건물 → 층 → 장면 계층 데이터 설계, 스팟 태그 에디터, 작업허가 관리
+- SAML2 SSO 연동, AWS S3 / DynamoDB, Redis
+
 ## 📌 Projects
 
 | Project | Description | Stack |
