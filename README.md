@@ -25,6 +25,8 @@ Java · Kotlin · Spring 기반 백엔드 개발을 공부하고 있습니다.
 ## 💼 Work Experience
 > 회사 업무로 수행한 프로젝트입니다. (소스코드 비공개)
 
+### 🏗 SI
+
 <img src="./assets/hd360.svg" width="100%"/>
 
 - Electron 에디터 → Spring Boot REST API → React 웹 뷰어 전체 아키텍처 설계·구현
@@ -37,6 +39,15 @@ Java · Kotlin · Spring 기반 백엔드 개발을 공부하고 있습니다.
 - 발전소 → 건물 → 층 → 장면 계층 데이터 설계, 스팟 태그 에디터, 작업허가 관리
 - 기존 SHE 플랫폼 연계 (작업허가서 API 연동)
 - SAML2 SSO 연동, MSSQL, AWS S3
+
+### 🏢 사내 서비스
+
+<img src="./assets/toss.svg" width="100%"/>
+
+- 기존 NicePay/CMS 결제를 토스페이먼츠로 전면 전환 (빌링키 정기구독, 단건 라이센스, 미납금/가입비 결제)
+- Spring Batch 정기결제 Job: 매월 25일 영업일 보정(공휴일 API) 자동결제, 실패 재시도·만료 처리
+- 인트라넷 결제 관리 대시보드 (React): 결제 실패 조회, 수동 재시도, 직권해지
+- 기존 회원 결제수단 토스 빌링키 이관
 
 ## 📌 Projects
 
