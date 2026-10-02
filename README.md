@@ -35,7 +35,7 @@ Java · Kotlin · Spring 기반 백엔드 개발을 공부하고 있습니다.
 
 - Three.js 기반 발전소 3D 모델(GLB) 뷰어 + 360° VR 장면 뷰어
 - 발전소 → 건물 → 층 → 장면 계층 데이터 설계, 스팟 태그 에디터, 작업허가 관리
-- SAML2 SSO 연동, AWS S3 / DynamoDB, Redis
+- SAML2 SSO 연동, MSSQL, AWS S3, Redis
 
 ## 📌 Projects
 
