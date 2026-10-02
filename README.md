@@ -7,6 +7,8 @@
 
 </div>
 
+<br/>
+
 ## 🛠 Tech Stack
 
 **Backend**<br/>
@@ -21,6 +23,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 
+<br/>
+
 ## 💼 Work Experience
 > 회사 업무로 수행한 프로젝트입니다. (소스코드 비공개)
 
@@ -32,12 +36,16 @@
 - React Three Fiber 기반 360° 파노라마 뷰어, G/A 도면 연동 내비게이션
 - 360° 파노라마 위 장비 태그 배치 및 장면 간 내비게이션 편집 기능 (도메인 단위 모듈 설계)
 
+<br/>
+
 <img src="./assets/3dview.svg" width="100%"/>
 
 - Three.js 기반 발전소 3D 모델(GLB) 뷰어 + 360° VR 장면 뷰어
 - 발전소 → 건물 → 층 → 장면 계층 데이터 설계, 스팟 태그 에디터, 작업허가 관리
 - 기존 SHE 플랫폼 연계 (작업허가서 API 연동)
 - SAML2 SSO 연동, MSSQL, AWS S3
+
+<br/>
 
 ### 🏢 사내 서비스
 
@@ -47,6 +55,8 @@
 - Spring Batch 정기결제 Job: 매월 25일 영업일 보정(공휴일 API) 자동결제, 실패 재시도·만료 처리
 - 인트라넷 결제 관리 대시보드 (React): 결제 실패 조회, 수동 재시도, 직권해지
 - 기존 회원 결제수단 토스 빌링키 이관
+
+<br/>
 
 ## 📌 Projects
 
@@ -59,10 +69,14 @@
 | [Chat-Template](https://github.com/dbrjsdn2051/Chat-Template) | Exposed + STOMP 채팅 템플릿 | Kotlin |
 | [react-develop](https://github.com/dbrjsdn2051/react-develop) | Zustand, OAuth 로그인, 무한 스크롤 SNS 앱 | TypeScript, React |
 
+<br/>
+
 ## 🧩 Algorithm
 
 [![Solved.ac
 dbrjsdn2051](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbrjsdn2051)](https://solved.ac/dbrjsdn2051)
+
+<br/>
 
 ## 🌿 Contributions
 
