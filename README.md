@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:216e39,100:40c463&height=180&section=header&text=dbrjsdn2051&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:216e39,100:40c463&height=180&section=header&text=%EC%9C%A0%EA%B1%B4%EC%9A%B0&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
 ### 🌱 Backend Developer
 
-Java · Kotlin · Spring 기반 백엔드 개발을 공부하고 있습니다.
+문제에 맞는 적절한 추상화를 탐색해 나갑니다.
 
 </div>
 
