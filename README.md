@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:216e39,100:40c463&height=180&section=header&text=%EC%9C%A0%EA%B1%B4%EC%9A%B0&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3500&pause=1200&color=40C463&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8C%B1+Backend+Developer;%EB%AC%B8%EC%A0%9C%EC%97%90+%EB%A7%9E%EB%8A%94+%EC%A0%81%EC%A0%88%ED%95%9C+%EC%B6%94%EC%83%81%ED%99%94%EB%A5%BC+%ED%83%90%EC%83%89%ED%95%B4+%EB%82%98%EA%B0%91%EB%8B%88%EB%8B%A4." alt="Backend Developer · 문제에 맞는 적절한 추상화를 탐색해 나갑니다." />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&center=true&vCenter=true&width=600&weight=700&size=26&height=44&duration=2500&pause=2000&color=40C463&lines=%F0%9F%8C%B1+Backend+Developer" alt="Backend Developer" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&center=true&vCenter=true&width=600&weight=400&size=17&height=32&duration=2500&pause=1000&color=8B949E&repeat=false&lines=%EB%AC%B8%EC%A0%9C%EC%97%90+%EB%A7%9E%EB%8A%94+%EC%A0%81%EC%A0%88%ED%95%9C+%EC%B6%94%EC%83%81%ED%99%94%EB%A5%BC+%ED%83%90%EC%83%89%ED%95%B4+%EB%82%98%EA%B0%91%EB%8B%88%EB%8B%A4." alt="문제에 맞는 적절한 추상화를 탐색해 나갑니다." />
 
 </div>
 
