@@ -64,7 +64,6 @@
 |---|---|---|
 | [OAuth-Provider](https://github.com/dbrjsdn2051/OAuth-Provider) | Spring Security / OAuth2 Client 없이 OAuth 직접 구현 | Java, Spring |
 | [2-Factor-Authentication](https://github.com/dbrjsdn2051/2-Factor-Authentication) | 2단계 인증/인가 | Java, Spring Security |
-| [Music_Settlement](https://github.com/dbrjsdn2051/Music_Settlement) | 음원 수익 정산 배치 처리 | Java, Spring Batch |
 | [payment-module-practice](https://github.com/dbrjsdn2051/payment-module-practice) | Exposed + Coroutines 결제 모듈 | Kotlin |
 | [Chat-Template](https://github.com/dbrjsdn2051/Chat-Template) | Exposed + STOMP 채팅 템플릿 | Kotlin |
 | [react-develop](https://github.com/dbrjsdn2051/react-develop) | Zustand, OAuth 로그인, 무한 스크롤 SNS 앱 | TypeScript, React |
