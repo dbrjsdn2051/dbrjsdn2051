@@ -42,7 +42,7 @@
 
 - Three.js 기반 발전소 3D 모델(GLB) 뷰어 + 360° VR 장면 뷰어
 - 발전소 → 건물 → 층 → 장면 계층 데이터 설계, 스팟 태그 에디터, 작업허가 관리
-- 기존 SHE 플랫폼 연계 (작업허가서 API 연동)
+- 기존 SHE ERP 시스템 연계: TBM(Tool Box Meeting) API 연동으로 현장 안전 정보를 VR 장면과 통합
 - SAML2 SSO 연동, MSSQL, AWS S3
 
 <br/>
